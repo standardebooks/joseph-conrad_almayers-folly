@@ -10,17 +10,6 @@ footer{
 	text-align: right;
 }
 
-section[epub|type~="dedication"]{
-	font-variant: small-caps;
-	text-align: center;
-}
-
-section[epub|type~="dedication"] p{
-	margin: 25% auto;
-	text-align: center;
-	text-indent: 0;
-}
-
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
