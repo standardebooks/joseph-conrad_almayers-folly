@@ -67,8 +67,8 @@ section[epub|type~="epigraph"] > *{
 
 /* Centered dedications */
 section[epub|type~="dedication"]{
-	text-align: center;
 	font-variant-caps: all-small-caps;
+	text-align: center;
 }
 
 section[epub|type~="dedication"] > *{
