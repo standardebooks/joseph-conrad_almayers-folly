@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/joseph-conrad/almayers-folly</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-06-24T18:32:23Z</dc:date>
+		<meta property="dcterms:modified">2025-06-24T18:32:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -59,14 +59,14 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A Dutch trader, stuck in a dull life on Borneo, dreams of wealth and success for himself and his daughter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Kaspar Almayer is a Dutch trader whose career has stalled. He finds himself in a riverside village in the jungles of East Borneo with his estranged Malay wife, their beautiful daughter Nina, and a lavish but unfinished house dubbed by others as &lt;em&gt;Almayer’s Folly&lt;/em&gt;. Kaspar dreams of acquiring wealth to free himself and take Nina to Europe. Rumors of gold deposits in the depths of the jungle delude him into thinking he is close to this goal. The arrival of a rajah’s son, willing to partake in Kaspar’s plans, is a catalyst for the novel’s events.&lt;/p&gt;
-			&lt;p&gt;&lt;em&gt;Almayer’s Folly&lt;/em&gt; is notable for being &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; first novel, published in 1895 after six years of casual writing and only one year after ceasing his maritime career. For this book, Józef Konrad Korzeniowski adopted the pen name by which he would later be known as a master of the English language. The book is based on Conrad’s experience as a seaman in the British merchant navy and his travels to Indonesia. Both the book’s titular character and the riverside village have their counterparts in real-life. While critics argue that &lt;em&gt;Almayer’s Folly&lt;/em&gt; is not as good as Conrad’s most famous works, the book introduces themes which he often returns to, including colonialism, the clash of East and West, and the dominant force of nature.&lt;/p&gt;
+			&lt;p&gt;Kaspar Almayer is a Dutch trader whose career has stalled. He finds himself in a riverside village in the jungles of East Borneo with his estranged Malay wife, their beautiful daughter Nina, and a lavish but unfinished house the village has dubbed “Almayer’s Folly.” Kaspar dreams of becoming rich enough to free himself from the backwater village and take Nina to Europe. Rumors of gold deposits in the depths of the jungle delude him into thinking he’s close to achieving that dream, and with the arrival of a rajah’s son who’s willing to join Kaspar in his get-rich-quick scheme, the plot is kicked into motion.&lt;/p&gt;
+			&lt;p&gt;&lt;em&gt;Almayer’s Folly&lt;/em&gt; is notable for being &lt;a href="https://standardebooks.org/ebooks/joseph-conrad"&gt;Joseph Conrad’s&lt;/a&gt; first novel, published in 1895 after six years of casual writing and just one year after he ended his maritime career. For this book, Józef Konrad Korzeniowski adopted the pen name by which he would later be known as a master of the English language. The book is based on Conrad’s experience as a seaman in the British merchant navy and his travels to Indonesia. Both the book’s titular character and the riverside village have their counterparts in real-life. While critics argue that &lt;em&gt;Almayer’s Folly&lt;/em&gt; isn’t as good as Conrad’s more famous works, the book introduces themes which he often returns to in his writing career, including colonialism, the clash of East and West, and the dominant forces of Nature.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/720</dc:source>
 		<dc:source>https://archive.org/details/almayersfollymal0000jose/</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">63791</meta>
+		<meta property="se:reading-ease.flesch">69.41</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Almayer%E2%80%99s_Folly</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/joseph-conrad_almayers-folly</meta>
 		<dc:creator id="author">Joseph Conrad</dc:creator>
@@ -91,6 +91,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
