@@ -57,6 +57,9 @@
 		<meta property="authority" refines="#subject-7">LCSH</meta>
 		<meta property="term" refines="#subject-7">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Lingard Trilogy</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">A Dutch trader, stuck in a dull life on Borneo, dreams of wealth and success for himself and his daughter.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Kaspar Almayer is a Dutch trader whose career has stalled. He finds himself in a riverside village in the jungles of East Borneo with his estranged Malay wife, their beautiful daughter Nina, and a lavish but unfinished house the village has dubbed “Almayer’s Folly.” Kaspar dreams of becoming rich enough to free himself from the backwater village and take Nina to Europe. Rumors of gold deposits in the depths of the jungle delude him into thinking he’s close to achieving that dream, and with the arrival of a rajah’s son who’s willing to join Kaspar in his get-rich-quick scheme, the plot is kicked into motion.&lt;/p&gt;
