@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Almayer’s Folly: A Story of an Eastern River</dc:title>
 		<meta property="file-as" refines="#fulltitle">Almayer’s Folly</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Dutch -- Borneo -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Didactic fiction</dc:subject>
 		<dc:subject id="subject-3">Imperialism -- Fiction</dc:subject>
